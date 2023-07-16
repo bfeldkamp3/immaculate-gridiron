@@ -1,15 +1,17 @@
 'use client'
   
-export default function GridButton({ classes }) { 
-    function handleClick() {
-        console.log("clicked click")
-        document.getElementById('playerSearch').focus()
-    }
+export default function GridButton(props) {
+  
+  function handleClick(e, props) {
+      document.getElementById('playerSearch').focus()
+      localStorage.setItem('grid', JSON.stringify(props.grid));
+  }
 
   return (
     <button 
-        onClick={handleClick} 
-        className={`${classes}`}
+        onClick={((e) => handleClick(e, props))}
+        className={`${props.classes}`}
+        id={`${props.grid.id}`}
         data-te-toggle="modal"
         data-te-target="#exampleModal"
         data-te-ripple-init

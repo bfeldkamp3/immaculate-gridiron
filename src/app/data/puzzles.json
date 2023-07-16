@@ -1,0 +1,802 @@
+{
+    "7/16/2023": [
+        "seahawks",
+        "packers",
+        "hof",
+        "chargers",
+        "raiders",
+        "ravens"
+    ],
+    "7/17/2023": [
+        "packers",
+        "vikings",
+        "mvp",
+        "cowboys",
+        "49ers",
+        "dolphins"
+    ],
+    "7/18/2023": [
+        "ravens",
+        "49ers",
+        "hof",
+        "commanders",
+        "packers",
+        "texans"
+    ],
+    "7/19/2023": [
+        "browns",
+        "patriots",
+        "hof",
+        "seahawks",
+        "chiefs",
+        "vikings"
+    ],
+    "7/20/2023": [
+        "ravens",
+        "steelers",
+        "mvp",
+        "falcons",
+        "jets",
+        "buccaneers"
+    ],
+    "7/21/2023": [
+        "eagles",
+        "titans",
+        "mvp",
+        "saints",
+        "cardinals",
+        "49ers"
+    ],
+    "7/22/2023": [
+        "bengals",
+        "vikings",
+        "mvp",
+        "49ers",
+        "lions",
+        "falcons"
+    ],
+    "7/23/2023": [
+        "chargers",
+        "buccaneers",
+        "hof",
+        "jets",
+        "raiders",
+        "bears"
+    ],
+    "7/24/2023": [
+        "seahawks",
+        "raiders",
+        "hof",
+        "chargers",
+        "falcons",
+        "packers"
+    ],
+    "7/25/2023": [
+        "giants",
+        "chiefs",
+        "hof",
+        "buccaneers",
+        "cardinals",
+        "rams"
+    ],
+    "7/26/2023": [
+        "vikings",
+        "49ers",
+        "mvp",
+        "steelers",
+        "jets",
+        "chiefs"
+    ],
+    "7/27/2023": [
+        "bills",
+        "panthers",
+        "mvp",
+        "texans",
+        "falcons",
+        "seahawks"
+    ],
+    "7/28/2023": [
+        "colts",
+        "texans",
+        "hof",
+        "packers",
+        "buccaneers",
+        "browns"
+    ],
+    "7/29/2023": [
+        "bills",
+        "bengals",
+        "mvp",
+        "lions",
+        "49ers",
+        "eagles"
+    ],
+    "7/30/2023": [
+        "bengals",
+        "steelers",
+        "mvp",
+        "panthers",
+        "chiefs",
+        "raiders"
+    ],
+    "7/31/2023": [
+        "steelers",
+        "raiders",
+        "hof",
+        "browns",
+        "colts",
+        "49ers"
+    ],
+    "8/1/2023": [
+        "steelers",
+        "browns",
+        "hof",
+        "seahawks",
+        "cowboys",
+        "saints"
+    ],
+    "8/2/2023": [
+        "jets",
+        "jaguars",
+        "hof",
+        "broncos",
+        "seahawks",
+        "dolphins"
+    ],
+    "8/3/2023": [
+        "buccaneers",
+        "ravens",
+        "hof",
+        "jets",
+        "dolphins",
+        "chargers"
+    ],
+    "8/4/2023": [
+        "vikings",
+        "eagles",
+        "mvp",
+        "colts",
+        "dolphins",
+        "rams"
+    ],
+    "8/5/2023": [
+        "steelers",
+        "patriots",
+        "hof",
+        "colts",
+        "titans",
+        "broncos"
+    ],
+    "8/6/2023": [
+        "bears",
+        "saints",
+        "hof",
+        "cardinals",
+        "cowboys",
+        "titans"
+    ],
+    "8/7/2023": [
+        "saints",
+        "cardinals",
+        "hof",
+        "commanders",
+        "buccaneers",
+        "packers"
+    ],
+    "8/8/2023": [
+        "saints",
+        "cowboys",
+        "mvp",
+        "colts",
+        "browns",
+        "commanders"
+    ],
+    "8/9/2023": [
+        "jaguars",
+        "vikings",
+        "mvp",
+        "49ers",
+        "giants",
+        "cowboys"
+    ],
+    "8/10/2023": [
+        "jets",
+        "cowboys",
+        "mvp",
+        "bills",
+        "bengals",
+        "texans"
+    ],
+    "8/11/2023": [
+        "bengals",
+        "49ers",
+        "mvp",
+        "cardinals",
+        "buccaneers",
+        "raiders"
+    ],
+    "8/12/2023": [
+        "dolphins",
+        "chiefs",
+        "mvp",
+        "vikings",
+        "eagles",
+        "titans"
+    ],
+    "8/13/2023": [
+        "chargers",
+        "seahawks",
+        "mvp",
+        "jets",
+        "titans",
+        "patriots"
+    ],
+    "8/14/2023": [
+        "buccaneers",
+        "titans",
+        "hof",
+        "eagles",
+        "chiefs",
+        "panthers"
+    ],
+    "8/15/2023": [
+        "cowboys",
+        "falcons",
+        "mvp",
+        "bears",
+        "raiders",
+        "texans"
+    ],
+    "8/16/2023": [
+        "browns",
+        "steelers",
+        "hof",
+        "chargers",
+        "texans",
+        "bears"
+    ],
+    "8/17/2023": [
+        "colts",
+        "steelers",
+        "mvp",
+        "patriots",
+        "raiders",
+        "panthers"
+    ],
+    "8/18/2023": [
+        "packers",
+        "broncos",
+        "hof",
+        "bengals",
+        "titans",
+        "chiefs"
+    ],
+    "8/19/2023": [
+        "chargers",
+        "bears",
+        "hof",
+        "cowboys",
+        "chiefs",
+        "buccaneers"
+    ],
+    "8/20/2023": [
+        "jets",
+        "packers",
+        "hof",
+        "buccaneers",
+        "commanders",
+        "chargers"
+    ],
+    "8/21/2023": [
+        "jets",
+        "raiders",
+        "hof",
+        "steelers",
+        "49ers",
+        "patriots"
+    ],
+    "8/22/2023": [
+        "seahawks",
+        "eagles",
+        "hof",
+        "panthers",
+        "bills",
+        "chiefs"
+    ],
+    "8/23/2023": [
+        "dolphins",
+        "jets",
+        "hof",
+        "rams",
+        "bills",
+        "cardinals"
+    ],
+    "8/24/2023": [
+        "texans",
+        "bears",
+        "hof",
+        "vikings",
+        "chargers",
+        "cardinals"
+    ],
+    "8/25/2023": [
+        "seahawks",
+        "bears",
+        "hof",
+        "patriots",
+        "ravens",
+        "49ers"
+    ],
+    "8/26/2023": [
+        "jaguars",
+        "raiders",
+        "hof",
+        "seahawks",
+        "eagles",
+        "cardinals"
+    ],
+    "8/27/2023": [
+        "eagles",
+        "titans",
+        "hof",
+        "buccaneers",
+        "49ers",
+        "steelers"
+    ],
+    "8/28/2023": [
+        "cardinals",
+        "broncos",
+        "mvp",
+        "49ers",
+        "dolphins",
+        "chiefs"
+    ],
+    "8/29/2023": [
+        "rams",
+        "bengals",
+        "mvp",
+        "colts",
+        "bills",
+        "broncos"
+    ],
+    "8/30/2023": [
+        "eagles",
+        "colts",
+        "mvp",
+        "seahawks",
+        "panthers",
+        "cardinals"
+    ],
+    "8/31/2023": [
+        "ravens",
+        "bills",
+        "mvp",
+        "rams",
+        "bengals",
+        "bears"
+    ],
+    "9/1/2023": [
+        "49ers",
+        "chargers",
+        "mvp",
+        "titans",
+        "cardinals",
+        "dolphins"
+    ],
+    "9/2/2023": [
+        "chiefs",
+        "vikings",
+        "mvp",
+        "lions",
+        "raiders",
+        "bears"
+    ],
+    "9/3/2023": [
+        "browns",
+        "bengals",
+        "hof",
+        "patriots",
+        "ravens",
+        "jaguars"
+    ],
+    "9/4/2023": [
+        "ravens",
+        "chiefs",
+        "mvp",
+        "lions",
+        "cowboys",
+        "chargers"
+    ],
+    "9/5/2023": [
+        "cowboys",
+        "rams",
+        "mvp",
+        "bills",
+        "vikings",
+        "bears"
+    ],
+    "9/6/2023": [
+        "jaguars",
+        "giants",
+        "mvp",
+        "ravens",
+        "saints",
+        "cardinals"
+    ],
+    "9/7/2023": [
+        "lions",
+        "broncos",
+        "mvp",
+        "ravens",
+        "panthers",
+        "49ers"
+    ],
+    "9/8/2023": [
+        "broncos",
+        "vikings",
+        "hof",
+        "texans",
+        "cardinals",
+        "colts"
+    ],
+    "9/9/2023": [
+        "cardinals",
+        "browns",
+        "mvp",
+        "jets",
+        "eagles",
+        "cowboys"
+    ],
+    "9/10/2023": [
+        "lions",
+        "panthers",
+        "mvp",
+        "bills",
+        "cowboys",
+        "49ers"
+    ],
+    "9/11/2023": [
+        "chiefs",
+        "bengals",
+        "mvp",
+        "dolphins",
+        "buccaneers",
+        "jaguars"
+    ],
+    "9/12/2023": [
+        "commanders",
+        "saints",
+        "mvp",
+        "rams",
+        "vikings",
+        "colts"
+    ],
+    "9/13/2023": [
+        "vikings",
+        "seahawks",
+        "mvp",
+        "commanders",
+        "bears",
+        "buccaneers"
+    ],
+    "9/14/2023": [
+        "steelers",
+        "falcons",
+        "hof",
+        "patriots",
+        "raiders",
+        "ravens"
+    ],
+    "9/15/2023": [
+        "giants",
+        "buccaneers",
+        "mvp",
+        "cowboys",
+        "vikings",
+        "raiders"
+    ],
+    "9/16/2023": [
+        "buccaneers",
+        "49ers",
+        "mvp",
+        "lions",
+        "browns",
+        "broncos"
+    ],
+    "9/17/2023": [
+        "falcons",
+        "rams",
+        "mvp",
+        "eagles",
+        "chiefs",
+        "patriots"
+    ],
+    "9/18/2023": [
+        "cowboys",
+        "texans",
+        "hof",
+        "bears",
+        "browns",
+        "jets"
+    ],
+    "9/19/2023": [
+        "titans",
+        "bengals",
+        "mvp",
+        "colts",
+        "steelers",
+        "jets"
+    ],
+    "9/20/2023": [
+        "dolphins",
+        "eagles",
+        "hof",
+        "bills",
+        "packers",
+        "titans"
+    ],
+    "9/21/2023": [
+        "lions",
+        "vikings",
+        "hof",
+        "titans",
+        "texans",
+        "raiders"
+    ],
+    "9/22/2023": [
+        "bills",
+        "colts",
+        "hof",
+        "commanders",
+        "vikings",
+        "texans"
+    ],
+    "9/23/2023": [
+        "panthers",
+        "dolphins",
+        "mvp",
+        "jets",
+        "packers",
+        "cowboys"
+    ],
+    "9/24/2023": [
+        "giants",
+        "chargers",
+        "hof",
+        "rams",
+        "dolphins",
+        "colts"
+    ],
+    "9/25/2023": [
+        "broncos",
+        "commanders",
+        "mvp",
+        "raiders",
+        "buccaneers",
+        "packers"
+    ],
+    "9/26/2023": [
+        "buccaneers",
+        "lions",
+        "mvp",
+        "jets",
+        "vikings",
+        "bears"
+    ],
+    "9/27/2023": [
+        "titans",
+        "jaguars",
+        "hof",
+        "panthers",
+        "browns",
+        "bears"
+    ],
+    "9/28/2023": [
+        "bears",
+        "saints",
+        "hof",
+        "bills",
+        "chiefs",
+        "commanders"
+    ],
+    "9/29/2023": [
+        "patriots",
+        "texans",
+        "hof",
+        "seahawks",
+        "giants",
+        "eagles"
+    ],
+    "9/30/2023": [
+        "patriots",
+        "raiders",
+        "hof",
+        "titans",
+        "rams",
+        "jets"
+    ],
+    "10/1/2023": [
+        "49ers",
+        "ravens",
+        "hof",
+        "bears",
+        "patriots",
+        "falcons"
+    ],
+    "10/2/2023": [
+        "dolphins",
+        "chargers",
+        "hof",
+        "bengals",
+        "jaguars",
+        "browns"
+    ],
+    "10/3/2023": [
+        "chiefs",
+        "buccaneers",
+        "mvp",
+        "colts",
+        "texans",
+        "panthers"
+    ],
+    "10/4/2023": [
+        "commanders",
+        "dolphins",
+        "hof",
+        "cowboys",
+        "broncos",
+        "colts"
+    ],
+    "10/5/2023": [
+        "cowboys",
+        "bears",
+        "hof",
+        "titans",
+        "giants",
+        "colts"
+    ],
+    "10/6/2023": [
+        "rams",
+        "ravens",
+        "hof",
+        "cowboys",
+        "chargers",
+        "packers"
+    ],
+    "10/7/2023": [
+        "rams",
+        "commanders",
+        "hof",
+        "eagles",
+        "jaguars",
+        "vikings"
+    ],
+    "10/8/2023": [
+        "seahawks",
+        "texans",
+        "hof",
+        "dolphins",
+        "rams",
+        "cardinals"
+    ],
+    "10/9/2023": [
+        "bengals",
+        "jaguars",
+        "hof",
+        "colts",
+        "texans",
+        "panthers"
+    ],
+    "10/10/2023": [
+        "rams",
+        "saints",
+        "mvp",
+        "patriots",
+        "browns",
+        "titans"
+    ],
+    "10/11/2023": [
+        "jaguars",
+        "giants",
+        "mvp",
+        "eagles",
+        "seahawks",
+        "raiders"
+    ],
+    "10/12/2023": [
+        "bears",
+        "lions",
+        "mvp",
+        "patriots",
+        "chargers",
+        "commanders"
+    ],
+    "10/13/2023": [
+        "jaguars",
+        "cowboys",
+        "hof",
+        "patriots",
+        "colts",
+        "bears"
+    ],
+    "10/14/2023": [
+        "falcons",
+        "buccaneers",
+        "hof",
+        "jaguars",
+        "broncos",
+        "cardinals"
+    ],
+    "10/15/2023": [
+        "eagles",
+        "commanders",
+        "mvp",
+        "packers",
+        "titans",
+        "raiders"
+    ],
+    "10/16/2023": [
+        "lions",
+        "vikings",
+        "mvp",
+        "colts",
+        "eagles",
+        "dolphins"
+    ],
+    "10/17/2023": [
+        "seahawks",
+        "falcons",
+        "mvp",
+        "giants",
+        "raiders",
+        "saints"
+    ],
+    "10/18/2023": [
+        "lions",
+        "patriots",
+        "mvp",
+        "chargers",
+        "rams",
+        "browns"
+    ],
+    "10/19/2023": [
+        "browns",
+        "bills",
+        "mvp",
+        "jaguars",
+        "panthers",
+        "vikings"
+    ],
+    "10/20/2023": [
+        "ravens",
+        "vikings",
+        "mvp",
+        "bears",
+        "cardinals",
+        "jaguars"
+    ],
+    "10/21/2023": [
+        "vikings",
+        "titans",
+        "mvp",
+        "rams",
+        "jets",
+        "49ers"
+    ],
+    "10/22/2023": [
+        "commanders",
+        "buccaneers",
+        "mvp",
+        "cardinals",
+        "bills",
+        "texans"
+    ],
+    "10/23/2023": [
+        "seahawks",
+        "bears",
+        "hof",
+        "49ers",
+        "dolphins",
+        "commanders"
+    ]
+}

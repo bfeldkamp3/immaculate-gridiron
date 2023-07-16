@@ -1,0 +1,498 @@
+[
+    {
+      "Skill": "QB Mac Jones* RB Damien Harris FB Jakob Johnson WR Nelson Agholor WR Jakobi Meyers TE Jonnu Smith",
+      "Off. Line": "LT Isaiah Wynn LG Ted Karras C David Andrews RG Shaq Mason RT Trent Brown",
+      "Def. Line": "LDE Deatrich Wise Jr. NT Davon Godchaux RDE Lawrence Guy",
+      "Linebackers": "LOLB Matt Judon* LILB Ja'Whaun Bentley ROLB Dont'a Hightower",
+      "Secondary": "LCB J.C. Jackson* RCB Jalen Mills SS Adrian Phillips FS Devin McCourty DB Kyle Dugger",
+      "Sp. Teams": "PR Gunner Olszewski KR Gunner Olszewski"
+    },
+    {
+      "Skill": "QB Cam Newton RB Damien Harris FB Jakob Johnson WR Damiere Byrd WR N'Keal Harry TE Ryan Izzo",
+      "Off. Line": "LT Isaiah Wynn LG Joe Thuney C David Andrews RG Shaq Mason RT Michael Onwenu",
+      "Def. Line": "LDE Deatrich Wise Jr. LDT Lawrence Guy RDT Byron Cowart RDE John Simon",
+      "Linebackers": "LLB Ja'Whaun Bentley MLB Terez Hall",
+      "Secondary": "LCB Jason McCourty RCB Stephon Gilmore* SS Adrian Phillips FS Devin McCourty DB Jonathan Jones",
+      "Sp. Teams": "PR Gunner Olszewski+ KR Gunner Olszewski+"
+    },
+    {
+      "Skill": "QB Tom Brady RB Sony Michel FB Jakob Johnson WR Julian Edelman WR Josh Gordon TE Matt LaCosse",
+      "Off. Line": "LT Isaiah Wynn LG Joe Thuney C Ted Karras RG Shaq Mason RT Marcus Cannon",
+      "Def. Line": "LDE Lawrence Guy LDT Danny Shelton RDE John Simon",
+      "Linebackers": "LLB Jamie Collins MLB Dont'a Hightower* RLB Kyle Van Noy",
+      "Secondary": "LCB Jason McCourty RCB Stephon Gilmore*+ SS Patrick Chung FS Devin McCourty DB Jonathan Jones",
+      "Sp. Teams": "PR Gunner Olszewski KR Brandon Bolden"
+    },
+    {
+      "Skill": "QB Tom Brady* RB Sony Michel FB James Develin WR Julian Edelman WR Josh Gordon TE Rob Gronkowski",
+      "Off. Line": "LT Trent Brown LG Joe Thuney C David Andrews RG Shaq Mason RT Marcus Cannon",
+      "Def. Line": "LDE Trey Flowers LDT Lawrence Guy RDT Malcom Brown RDE Deatrich Wise Jr.",
+      "Linebackers": "LLB Dont'a Hightower MLB Kyle Van Noy RLB Elandon Roberts",
+      "Secondary": "LCB Jason McCourty RCB Stephon Gilmore*+ SS Patrick Chung FS Devin McCourty",
+      "Sp. Teams": "PR Julian Edelman KR Cordarrelle Patterson"
+    },
+    {
+      "Skill": "QB Tom Brady*+ RB Dion Lewis FB James Develin* WR Brandin Cooks WR Chris Hogan TE Rob Gronkowski*+",
+      "Off. Line": "LT Nate Solder LG Joe Thuney C David Andrews RG Shaq Mason RT Marcus Cannon",
+      "Def. Line": "LDE Lawrence Guy LDT Alan Branch RDT Adam Butler RDE Trey Flowers",
+      "Linebackers": "LLB Kyle Van Noy MLB Elandon Roberts RLB David Harris",
+      "Secondary": "LCB Malcolm Butler RCB Stephon Gilmore SS Patrick Chung FS Devin McCourty",
+      "Sp. Teams": "PR Danny Amendola KR Dion Lewis"
+    },
+    {
+      "Skill": "QB Tom Brady* RB LeGarrette Blount WR Julian Edelman WR Chris Hogan TE Martellus Bennett TE Rob Gronkowski",
+      "Off. Line": "LT Nate Solder LG Joe Thuney C David Andrews RG Shaq Mason RT Marcus Cannon",
+      "Def. Line": "LDE Chris Long LDT Alan Branch RDT Malcom Brown RDE Jabaal Sheard",
+      "Linebackers": "LLB Jamie Collins MLB Dont'a Hightower* RLB Rob Ninkovich",
+      "Secondary": "LCB Malcolm Butler RCB Logan Ryan SS Patrick Chung FS Devin McCourty*",
+      "Sp. Teams": "PR Danny Amendola KR Cyrus Jones"
+    },
+    {
+      "Skill": "QB Tom Brady* RB Dion Lewis WR Julian Edelman WR Keshawn Martin TE Rob Gronkowski*+ TE Michael Williams",
+      "Off. Line": "LT Sebastian Vollmer LG Shaq Mason C David Andrews RG Tre' Jackson RT Marcus Cannon",
+      "Def. Line": "LDE Rob Ninkovich LDT Alan Branch RDT Malcom Brown RDE Chandler Jones*",
+      "Linebackers": "LLB Jamie Collins* MLB Jerod Mayo RLB Dont'a Hightower",
+      "Secondary": "LCB Malcolm Butler* RCB Logan Ryan SS Patrick Chung FS Devin McCourty",
+      "Sp. Teams": "PR Danny Amendola KR Keshawn Martin"
+    },
+    {
+      "Skill": "QB Tom Brady* RB Shane Vereen WR Julian Edelman WR Brandon LaFell TE Rob Gronkowski*+ TE Michael Hoomanawanui",
+      "Off. Line": "LT Nate Solder LG Dan Connolly C Bryan Stork RG Ryan Wendell RT Sebastian Vollmer",
+      "Def. Line": "LDE Rob Ninkovich LDT Vince Wilfork RDT Chris Jones RDE Chandler Jones",
+      "Linebackers": "LLB Jamie Collins MLB Jerod Mayo RLB Dont'a Hightower",
+      "Secondary": "LCB Darrelle Revis*+ RCB Brandon Browner SS Patrick Chung FS Devin McCourty",
+      "Sp. Teams": "PR Julian Edelman KR Danny Amendola"
+    },
+    {
+      "Skill": "QB Tom Brady* RB LeGarrette Blount WR Aaron Dobson WR Julian Edelman TE Rob Gronkowski TE Michael Hoomanawanui",
+      "Off. Line": "LT Nate Solder LG Logan Mankins* C Ryan Wendell RG Dan Connolly RT Sebastian Vollmer",
+      "Def. Line": "LDE Rob Ninkovich LDT Joe Vellano RDT Chris Jones RDE Chandler Jones",
+      "Linebackers": "LLB Jamie Collins MLB Brandon Spikes RLB Dont'a Hightower",
+      "Secondary": "LCB Aqib Talib* RCB Alfonzo Dennard SS Steve Gregory FS Devin McCourty",
+      "Sp. Teams": "PR Julian Edelman KR LeGarrette Blount"
+    },
+    {
+      "Skill": "QB Tom Brady* RB Stevan Ridley WR Brandon Lloyd WR Wes Welker* TE Rob Gronkowski* TE Aaron Hernandez",
+      "Off. Line": "LT Nate Solder LG Logan Mankins* C Ryan Wendell RG Dan Connolly RT Sebastian Vollmer",
+      "Def. Line": "LDE Rob Ninkovich LDT Vince Wilfork*+ RDT Kyle Love RDE Chandler Jones",
+      "Linebackers": "LLB Jerod Mayo* MLB Brandon Spikes RLB Dont'a Hightower",
+      "Secondary": "LCB Devin McCourty RCB Kyle Arrington SS Steve Gregory FS Patrick Chung",
+      "Sp. Teams": "PR Wes Welker* KR Devin McCourty"
+    },
+    {
+      "Skill": "QB Tom Brady* RB BenJarvus Green-Ellis WR Deion Branch WR Wes Welker*+ TE Rob Gronkowski*+ TE Aaron Hernandez",
+      "Off. Line": "LT Matt Light LG Logan Mankins* C Dan Connolly RG Brian Waters* RT Nate Solder",
+      "Def. Line": "LDE Shaun Ellis LDT Vince Wilfork* RDT Kyle Love RDE Andre Carter*",
+      "Linebackers": "LLB Rob Ninkovich MLB Jerod Mayo RLB Brandon Spikes",
+      "Secondary": "LCB Devin McCourty RCB Kyle Arrington SS James Ihedigbo FS Patrick Chung",
+      "Sp. Teams": "PR Julian Edelman KR Danny Woodhead"
+    },
+    {
+      "Skill": "QB Tom Brady*+ RB BenJarvus Green-Ellis WR Brandon Tate WR Wes Welker* TE Alge Crumpler TE Rob Gronkowski",
+      "Off. Line": "LT Matt Light* LG Logan Mankins*+ C Dan Koppen RG Steve Neal RT Sebastian Vollmer",
+      "Def. Line": "LDE Vince Wilfork* NT Gerard Warren RDE Ron Brace",
+      "Linebackers": "LOLB Rob Ninkovich LILB Jerod Mayo*+ RILB Brandon Spikes ROLB Jermaine Cunningham",
+      "Secondary": "LCB Devin McCourty* RCB Kyle Arrington SS Patrick Chung FS Brandon Meriweather*",
+      "Sp. Teams": "PR Julian Edelman KR Brandon Tate"
+    },
+    {
+      "Skill": "QB Tom Brady* RB Kevin Faulk WR Julian Edelman WR Randy Moss WR Wes Welker*+ TE Ben Watson",
+      "Off. Line": "LT Matt Light LG Logan Mankins* C Dan Koppen RG Steve Neal RT Nick Kaczur",
+      "Def. Line": "LDE Ty Warren NT Vince Wilfork* RDE Jarvis Green",
+      "Linebackers": "LOLB Tully Banta-Cain LILB Jerod Mayo RILB Gary Guyton ROLB Adalius Thomas",
+      "Secondary": "LCB Shawn Springs RCB Leigh Bodden SS Brandon Meriweather* FS Brandon McGowan",
+      "Sp. Teams": "PR Wes Welker*+ KR Laurence Maroney"
+    },
+    {
+      "Skill": "QB Matt Cassel RB Sammy Morris WR Randy Moss WR Wes Welker* TE David Thomas TE Ben Watson",
+      "Off. Line": "LT Matt Light LG Logan Mankins C Dan Koppen RG Steve Neal RT Nick Kaczur",
+      "Def. Line": "LDE Ty Warren NT Vince Wilfork RDE Richard Seymour",
+      "Linebackers": "LOLB Mike Vrabel LILB Jerod Mayo RILB Tedy Bruschi ROLB Adalius Thomas",
+      "Secondary": "LCB Deltha O'Neal RCB Ellis Hobbs SS Brandon Meriweather FS James Sanders",
+      "Sp. Teams": "PR Wes Welker* KR Ellis Hobbs"
+    },
+    {
+      "Skill": "QB Tom Brady*+ RB Kevin Faulk WR Randy Moss*+ WR Wes Welker TE Kyle Brady TE Ben Watson",
+      "Off. Line": "LT Matt Light*+ LG Logan Mankins* C Dan Koppen* RG Steve Neal RT Nick Kaczur",
+      "Def. Line": "LDE Ty Warren NT Vince Wilfork* RDE Jarvis Green",
+      "Linebackers": "LOLB Mike Vrabel*+ LILB Adalius Thomas RILB Tedy Bruschi ROLB Rosevelt Colvin",
+      "Secondary": "LCB Asante Samuel*+ RCB Ellis Hobbs SS Rodney Harrison FS James Sanders",
+      "Sp. Teams": "PR Wes Welker KR Ellis Hobbs"
+    },
+    {
+      "Skill": "QB Tom Brady RB Corey Dillon WR Troy Brown WR Reche Caldwell TE Daniel Graham TE Ben Watson",
+      "Off. Line": "LT Matt Light* LG Logan Mankins C Dan Koppen RG Steve Neal RT Nick Kaczur",
+      "Def. Line": "LDE Ty Warren NT Vince Wilfork RDE Richard Seymour*",
+      "Linebackers": "LOLB Rosevelt Colvin LILB Junior Seau RILB Tedy Bruschi ROLB Mike Vrabel",
+      "Secondary": "LCB Asante Samuel RCB Ellis Hobbs SS Rodney Harrison FS Artrell Hawkins",
+      "Sp. Teams": "PR Kevin Faulk KR Laurence Maroney"
+    },
+    {
+      "Skill": "QB Tom Brady* RB Corey Dillon WR Deion Branch WR David Givens TE Christian Fauria TE Ben Watson",
+      "Off. Line": "LT Nick Kaczur LG Logan Mankins C Dan Koppen RG Steve Neal RT Tom Ashworth",
+      "Def. Line": "LDE Ty Warren NT Vince Wilfork RDE Richard Seymour*+",
+      "Linebackers": "LOLB Willie McGinest LILB Tedy Bruschi RILB Mike Vrabel ROLB Rosevelt Colvin",
+      "Secondary": "LCB Asante Samuel RCB Ellis Hobbs SS Artrell Hawkins FS Eugene Wilson",
+      "Sp. Teams": "PR Tim Dwight KR Bethel Johnson"
+    },
+    {
+      "Skill": "QB Tom Brady* RB Corey Dillon* WR Deion Branch WR David Givens WR David Patten TE Daniel Graham",
+      "Off. Line": "LT Matt Light LG Joe Andruzzi C Dan Koppen RG Steve Neal RT Brandon Gorin",
+      "Def. Line": "LDE Ty Warren NT Keith Traylor RDE Richard Seymour*+",
+      "Linebackers": "LOLB Willie McGinest LILB Ted Johnson RILB Tedy Bruschi* ROLB Mike Vrabel",
+      "Secondary": "LCB Ty Law RCB Randall Gay SS Rodney Harrison FS Eugene Wilson",
+      "Sp. Teams": "PR Kevin Faulk KR Bethel Johnson"
+    },
+    {
+      "Skill": "QB Tom Brady RB Kevin Faulk WR Deion Branch WR Troy Brown TE Christian Fauria TE Daniel Graham",
+      "Off. Line": "LT Matt Light LG Damien Woody C Dan Koppen RG Joe Andruzzi RT Tom Ashworth",
+      "Def. Line": "LDE Bobby Hamilton LDT Ted Washington RDT Richard Seymour*+ RDE Willie McGinest*",
+      "Linebackers": "LLB Roman Phifer MLB Tedy Bruschi RLB Mike Vrabel",
+      "Secondary": "LCB Ty Law*+ RCB Tyrone Poole SS Rodney Harrison+ FS Eugene Wilson",
+      "Sp. Teams": "PR Troy Brown KR Bethel Johnson"
+    },
+    {
+      "Skill": "QB Tom Brady RB Antowain Smith FB Marc Edwards WR Troy Brown WR David Patten TE Christian Fauria",
+      "Off. Line": "LT Matt Light LG Mike Compton C Damien Woody* RG Joe Andruzzi RT Kenyatta Jones",
+      "Def. Line": "LDE Willie McGinest LDT Bobby Hamilton RDT Anthony Pleasant RDE Richard Seymour*",
+      "Linebackers": "LLB Mike Vrabel MLB Ted Johnson RLB Roman Phifer",
+      "Secondary": "LCB Ty Law* RCB Otis Smith SS Lawyer Milloy* FS Tebucky Jones",
+      "Sp. Teams": "PR Troy Brown KR Deion Branch"
+    },
+    {
+      "Skill": "QB Tom Brady* RB Antowain Smith FB Marc Edwards WR Troy Brown* WR David Patten TE Rod Rutledge",
+      "Off. Line": "LT Matt Light LG Mike Compton C Damien Woody RG Joe Andruzzi RT Greg Randall",
+      "Def. Line": "LDE Bobby Hamilton LDT Brandon Mitchell RDT Anthony Pleasant RDE Richard Seymour",
+      "Linebackers": "LLB Mike Vrabel MLB Tedy Bruschi RLB Roman Phifer",
+      "Secondary": "LCB Ty Law* RCB Otis Smith SS Lawyer Milloy* FS Tebucky Jones",
+      "Sp. Teams": "PR Troy Brown* KR Kevin Faulk"
+    },
+    {
+      "Skill": "QB Drew Bledsoe RB Kevin Faulk FB Tony Carter WR Troy Brown WR Terry Glenn TE Rod Rutledge",
+      "Off. Line": "LT Bruce Armstrong LG Joe Andruzzi C Damien Woody RG Sale Isaia RT Grant Williams",
+      "Def. Line": "LDE Willie McGinest LDE Brandon Mitchell NT Chad Eaton RDE Bobby Hamilton",
+      "Linebackers": "LILB Chris Slade RILB Ted Johnson ROLB Tedy Bruschi",
+      "Secondary": "LCB Ty Law RCB Otis Smith SS Lawyer Milloy FS Tebucky Jones",
+      "Sp. Teams": "PR Troy Brown KR Kevin Faulk"
+    },
+    {
+      "Skill": "QB Drew Bledsoe RB Terry Allen FB Tony Carter WR Terry Glenn* WR Shawn Jefferson TE Ben Coates",
+      "Off. Line": "LT Bruce Armstrong LG Heath Irwin C Damien Woody RG Todd Rucci RT Zefross Moss",
+      "Def. Line": "LDE Brandon Mitchell LDT Chad Eaton RDT Henry Thomas RDE Willie McGinest",
+      "Linebackers": "LLB Chris Slade MLB Andy Katzenmoyer RLB Tedy Bruschi",
+      "Secondary": "LCB Ty Law RCB Steve Israel SS Lawyer Milloy*+ FS Chris Carter",
+      "Sp. Teams": "PR Troy Brown KR Kevin Faulk"
+    },
+    {
+      "Skill": "QB Drew Bledsoe RB Robert Edwards FB Tony Carter WR Terry Glenn WR Shawn Jefferson TE Ben Coates*",
+      "Off. Line": "LT Bruce Armstrong LG Max Lane C Dave Wohlabaugh RG Todd Rucci RT Zefross Moss",
+      "Def. Line": "LDE Ferric Collons LDT Chad Eaton RDT Henry Thomas RDE Willie McGinest",
+      "Linebackers": "LLB Chris Slade MLB Ted Johnson RLB Todd Collins",
+      "Secondary": "LCB Ty Law*+ RCB Chris Canty SS Lawyer Milloy* FS Willie Clay",
+      "Sp. Teams": "PR Troy Brown KR Derrick Cullors"
+    },
+    {
+      "Skill": "QB Drew Bledsoe* RB Curtis Martin FB Keith Byars WR Terry Glenn WR Shawn Jefferson TE Ben Coates*",
+      "Off. Line": "LT Bruce Armstrong* LG Max Lane C Dave Wohlabaugh RG Todd Rucci RT Zefross Moss",
+      "Def. Line": "LDE Chris Sullivan LDT Mark Wheeler RDT Henry Thomas RDE Willie McGinest",
+      "Linebackers": "LLB Chris Slade* MLB Ted Johnson RLB Todd Collins",
+      "Secondary": "LCB Ty Law RCB Jimmy Hitchcock SS Lawyer Milloy FS Willie Clay",
+      "Sp. Teams": "PR Dave Meggett KR Dave Meggett"
+    },
+    {
+      "Skill": "QB Drew Bledsoe* RB Curtis Martin* FB Sam Gash WR Terry Glenn WR Shawn Jefferson TE Ben Coates*",
+      "Off. Line": "LT Bruce Armstrong* LG William Roberts C Dave Wohlabaugh RG Todd Rucci RT Max Lane",
+      "Def. Line": "LDE Mike Jones LDT Mark Wheeler RDT Pio Sagapolutele RDE Willie McGinest*",
+      "Linebackers": "LLB Todd Collins MLB Ted Johnson RLB Dwayne Sabb",
+      "Secondary": "LCB Ty Law RCB Ricky Reynolds SS Lawyer Milloy FS Willie Clay",
+      "Sp. Teams": "PR Dave Meggett* KR Dave Meggett*"
+    },
+    {
+      "Skill": "QB Drew Bledsoe RB Curtis Martin* FB Sam Gash WR Vincent Brisby WR Will Moore TE Ben Coates*+",
+      "Off. Line": "LT Bruce Armstrong* LG William Roberts C Dave Wohlabaugh RG Bob Kratch RT Max Lane",
+      "Def. Line": "LDE Tim Roberts NT Reggie White RDE Troy Barnett",
+      "Linebackers": "LOLB Willie McGinest LILB Vincent Brown RILB Ted Johnson ROLB Chris Slade",
+      "Secondary": "LCB Ricky Reynolds RCB Maurice Hurst SS Terry Ray FS Myron Guyton",
+      "Sp. Teams": "PR Dave Meggett KR Dave Meggett"
+    },
+    {
+      "Skill": "QB Drew Bledsoe* RB Marion Butts FB Kevin Turner WR Vincent Brisby WR Michael Timpson TE Ben Coates*+",
+      "Off. Line": "LT Bruce Armstrong* LG Bob Kratch C Mike Arthur RG Todd Rucci RT Pat Harlow",
+      "Def. Line": "LDE Mike Pitts NT Tim Goad RDE Mike Jones",
+      "Linebackers": "LOLB Dwayne Sabb LILB Vincent Brown RILB Todd Collins ROLB Chris Slade",
+      "Secondary": "LCB Ricky Reynolds RCB Maurice Hurst SS Harlon Barnett FS Myron Guyton",
+      "Sp. Teams": "PR Troy Brown KR Ray Crittenden"
+    },
+    {
+      "Skill": "QB Drew Bledsoe RB Leonard Russell FB Kevin Turner WR Vincent Brisby TE Ben Coates TE Marv Cook",
+      "Off. Line": "LT Bruce Armstrong LG Eugene Chung C Mike Arthur RG Rich Baldinger RT Pat Harlow",
+      "Def. Line": "LDE Mike Pitts NT Tim Goad RDE John Washington",
+      "Linebackers": "LOLB Andre Tippett LILB Vincent Brown RILB Todd Collins ROLB Dwayne Sabb",
+      "Secondary": "LCB Rod Smith RCB Maurice Hurst SS Corwin Brown FS Harlon Barnett",
+      "Sp. Teams": "PR Troy Brown KR Ray Crittenden"
+    },
+    {
+      "Skill": "QB Hugh Millen RB Leonard Russell FB John Stephens WR Irving Fryar WR Greg McMurtry TE Marv Cook*",
+      "Off. Line": "LT Bruce Armstrong LG Reggie Redding C Gene Chilton RG Eugene Chung RT Pat Harlow",
+      "Def. Line": "LDE Ray Agnew NT Tim Goad RDE Brent Williams",
+      "Linebackers": "LOLB Andre Tippett LILB Vincent Brown RILB Johnny Rembert ROLB David Howard",
+      "Secondary": "LCB David Pool RCB Maurice Hurst SS Tim Gordon FS Randy Robbins",
+      "Sp. Teams": "PR Walter Stanley KR Walter Stanley"
+    },
+    {
+      "Skill": "QB Hugh Millen RB Leonard Russell FB Ivy Joe Hunter WR Irving Fryar WR Greg McMurtry TE Marv Cook*+",
+      "Off. Line": "LT Bruce Armstrong* LG Elbert Crawford C Gene Chilton RG Danny Villa RT Pat Harlow",
+      "Def. Line": "LDE Ray Agnew NT Tim Goad RDE Brent Williams",
+      "Linebackers": "LOLB Andre Tippett LILB Eugene Lockhart RILB Vincent Brown ROLB Chris Singleton",
+      "Secondary": "LCB Ronnie Lippett RCB Maurice Hurst SS Harry Colon FS Fred Marion",
+      "Sp. Teams": "PR Jerome Henderson KR Jon Vaughn"
+    },
+    {
+      "Skill": "QB Marc Wilson RB John Stephens FB Bob Perryman WR Hart Lee Dykes WR Irving Fryar TE Marv Cook",
+      "Off. Line": "LT Bruce Armstrong* LG Chris Gambol C David Douglas RG Damian Johnson RT Danny Villa",
+      "Def. Line": "LDE Brent Williams NT Tim Goad RDE Ray Agnew",
+      "Linebackers": "LOLB Vincent Brown LILB Richard Harvey RILB Ed Reynolds ROLB Andre Tippett",
+      "Secondary": "LCB Ronnie Lippett RCB Maurice Hurst SS Rod McSwain FS Fred Marion",
+      "Sp. Teams": "PR Irving Fryar KR Sammy Martin"
+    },
+    {
+      "Skill": "QB Steve Grogan RB John Stephens FB Bob Perryman WR Cedric Jones WR Stanley Morgan TE Lin Dawson",
+      "Off. Line": "LT Danny Villa LG Sean Farrell C Mike Baab RG Paul Fairchild RT Bruce Armstrong",
+      "Def. Line": "LDE Kenneth Sims NT Tim Goad RDE Brent Williams",
+      "Linebackers": "LOLB Johnny Rembert* LILB Ed Reynolds RILB Vincent Brown ROLB Larry McGrew",
+      "Secondary": "LCB Maurice Hurst RCB Raymond Clayborn SS Roland James FS Fred Marion",
+      "Sp. Teams": "PR Sammy Martin KR Sammy Martin"
+    },
+    {
+      "Skill": "QB Doug Flutie RB John Stephens* FB Bob Perryman WR Irving Fryar WR Stanley Morgan TE Russ Francis",
+      "Off. Line": "LT Danny Villa LG Sean Farrell C Mike Baab RG Ron Wooten RT Bruce Armstrong",
+      "Def. Line": "LDE Brent Williams NT Tim Goad RDE Garin Veris",
+      "Linebackers": "LOLB Andre Tippett* LILB Ed Reynolds RILB Johnny Rembert* ROLB Larry McGrew",
+      "Secondary": "LCB Ronnie Lippett RCB Raymond Clayborn SS Roland James FS Fred Marion",
+      "Sp. Teams": "PR Irving Fryar KR Sammy Martin"
+    },
+    {
+      "Skill": "QB Steve Grogan RB Tony Collins FB Mosi Tatupu WR Irving Fryar WR Stanley Morgan* TE Lin Dawson",
+      "Off. Line": "LT Danny Villa LG Sean Farrell C Guy Morriss RG Ron Wooten RT Bruce Armstrong",
+      "Def. Line": "LDE Kenneth Sims NT Toby Williams RDE Garin Veris",
+      "Linebackers": "LOLB Andre Tippett*+ LILB Steve Nelson RILB Larry McGrew ROLB Ed Williams",
+      "Secondary": "LCB Ronnie Lippett RCB Raymond Clayborn SS Jim Bowman FS Fred Marion",
+      "Sp. Teams": "PR Irving Fryar KR Stephen Starring"
+    },
+    {
+      "Skill": "QB Tony Eason RB Tony Collins FB Craig James WR Irving Fryar WR Stanley Morgan* TE Greg Hawthorne",
+      "Off. Line": "LT Brian Holloway LG Paul Fairchild C Pete Brock RG Ron Wooten RT Steve Moore",
+      "Def. Line": "LDE Brent Williams NT Toby Williams RDE Garin Veris",
+      "Linebackers": "LOLB Andre Tippett* LILB Steve Nelson RILB Larry McGrew ROLB Don Blackmon",
+      "Secondary": "LCB Ronnie Lippett RCB Raymond Clayborn* SS Roland James FS Fred Marion",
+      "Sp. Teams": "PR Irving Fryar KR Stephen Starring"
+    },
+    {
+      "Skill": "QB Tony Eason RB Tony Collins FB Craig James* WR Irving Fryar* WR Stanley Morgan TE Lin Dawson",
+      "Off. Line": "LT Brian Holloway* LG John Hannah*+ C Pete Brock RG Ron Wooten RT Steve Moore",
+      "Def. Line": "LDE Kenneth Sims NT Dennis Owens RDE Julius Adams",
+      "Linebackers": "LOLB Andre Tippett*+ LILB Steve Nelson* RILB Larry McGrew ROLB Don Blackmon",
+      "Secondary": "LCB Ronnie Lippett RCB Raymond Clayborn* SS Roland James FS Fred Marion*",
+      "Sp. Teams": "PR Irving Fryar* KR Stephen Starring"
+    },
+    {
+      "Skill": "QB Tony Eason RB Craig James WR Stanley Morgan WR Stephen Starring TE Lin Dawson TE Derrick Ramsey",
+      "Off. Line": "LT Brian Holloway* LG John Hannah* C Pete Brock RG Ron Wooten RT Darryl Haley",
+      "Def. Line": "LDE Kenneth Sims NT Dennis Owens RDE Toby Williams",
+      "Linebackers": "LOLB Andre Tippett* LILB Steve Nelson* RILB Larry McGrew ROLB Don Blackmon",
+      "Secondary": "LCB Ernest Gibson RCB Raymond Clayborn SS Roland James FS Fred Marion",
+      "Sp. Teams": "PR Irving Fryar KR Tony Collins"
+    },
+    {
+      "Skill": "QB Steve Grogan RB Tony Collins* FB Mark van Eeghen WR Cedric Jones WR Stanley Morgan TE Lin Dawson",
+      "Off. Line": "LT Brian Holloway* LG John Hannah*+ C Pete Brock RG Ron Wooten RT Bob Cryder",
+      "Def. Line": "LDE Toby Williams NT Dennis Owens RDE Julius Adams",
+      "Linebackers": "LOLB Andre Tippett LILB Johnny Rembert RILB Clayton Weishuhn ROLB Don Blackmon",
+      "Secondary": "LCB Ronnie Lippett RCB Raymond Clayborn* SS Roland James FS Rick Sanford",
+      "Sp. Teams": "PR Ricky Smith KR Ricky Smith"
+    },
+    {
+      "Skill": "QB Steve Grogan RB Tony Collins FB Mark van Eeghen WR Morris Bradshaw WR Stanley Morgan TE Don Hasselbeck",
+      "Off. Line": "LT Brian Holloway LG John Hannah* C Pete Brock RG Ron Wooten RT Shelby Jordan",
+      "Def. Line": "LDE Kenneth Sims NT Lester Williams RDE Julius Adams",
+      "Linebackers": "LOLB Larry McGrew LILB Steve Nelson RILB Clayton Weishuhn ROLB Don Blackmon",
+      "Secondary": "LCB Mike Haynes* RCB Raymond Clayborn SS Roland James FS Rick Sanford",
+      "Sp. Teams": "PR Ricky Smith KR Ricky Smith"
+    },
+    {
+      "Skill": "QB Matt Cavanaugh RB Tony Collins FB Sam Cunningham WR Harold Jackson WR Stanley Morgan TE Don Hasselbeck",
+      "Off. Line": "LT Dwight Wheeler LG John Hannah*+ C Pete Brock RG Bob Cryder RT Shelby Jordan",
+      "Def. Line": "LDE Tony McGee NT Richard Bishop RDE Julius Adams",
+      "Linebackers": "LOLB Mike Hawkins LILB Steve Nelson RILB Bill Matthews ROLB Rod Shoate",
+      "Secondary": "LCB Raymond Clayborn RCB Mike Haynes SS Rick Sanford FS Tim Fox",
+      "Sp. Teams": "PR Stanley Morgan KR Tony Collins"
+    },
+    {
+      "Skill": "QB Steve Grogan RB Vagas Ferguson FB Don Calhoun WR Harold Jackson WR Stanley Morgan* TE Russ Francis",
+      "Off. Line": "LT Dwight Wheeler LG John Hannah*+ C Bill Lenkaitis RG Sam Adams RT Shelby Jordan",
+      "Def. Line": "LDE Mel Lunsford NT Ray Hamilton RDE Julius Adams*",
+      "Linebackers": "LOLB Mike Hawkins LILB Steve Nelson* RILB John Zamberlin ROLB Rod Shoate",
+      "Secondary": "LCB Raymond Clayborn RCB Mike Haynes* SS Roland James FS Tim Fox*",
+      "Sp. Teams": "PR Roland James KR Horace Ivory"
+    },
+    {
+      "Skill": "QB Steve Grogan RB Horace Ivory FB Sam Cunningham WR Harold Jackson WR Stanley Morgan* TE Russ Francis",
+      "Off. Line": "LT Dwight Wheeler LG John Hannah*+ C Bill Lenkaitis RG Sam Adams RT Shelby Jordan",
+      "Def. Line": "LDE Mel Lunsford NT Ray Hamilton RDE Richard Bishop",
+      "Linebackers": "LOLB Mike Hawkins LILB Steve Nelson RILB Sam Hunt ROLB Rod Shoate",
+      "Secondary": "LCB Raymond Clayborn RCB Mike Haynes* SS Doug Beaudoin FS Tim Fox",
+      "Sp. Teams": "PR Stanley Morgan* KR Allan Clark"
+    },
+    {
+      "Skill": "QB Steve Grogan RB Andy Johnson FB Sam Cunningham* WR Harold Jackson WR Stanley Morgan TE Russ Francis*",
+      "Off. Line": "LT Leon Gray*+ LG John Hannah*+ C Bill Lenkaitis RG Sam Adams RT Shelby Jordan",
+      "Def. Line": "LDE Mel Lunsford NT Ray Hamilton RDE Richard Bishop",
+      "Linebackers": "LOLB Steve Zabel LILB Steve Nelson RILB Sam Hunt ROLB Rod Shoate",
+      "Secondary": "LCB Raymond Clayborn RCB Mike Haynes* SS Doug Beaudoin FS Tim Fox",
+      "Sp. Teams": "PR Stanley Morgan KR Raymond Clayborn"
+    },
+    {
+      "Skill": "QB Steve Grogan RB Don Calhoun FB Sam Cunningham WR Stanley Morgan WR Darryl Stingley TE Russ Francis*",
+      "Off. Line": "LT Leon Gray LG John Hannah C Bill Lenkaitis RG Sam Adams RT Tom Neville",
+      "Def. Line": "LDE Mel Lunsford NT Ray Hamilton RDE Julius Adams",
+      "Linebackers": "LOLB Steve Zabel LILB Steve Nelson RILB Sam Hunt ROLB Pete Barnes",
+      "Secondary": "LCB Bob Howard RCB Mike Haynes* SS Prentice McCray FS Tim Fox",
+      "Sp. Teams": "PR Mike Haynes* KR Raymond Clayborn"
+    },
+    {
+      "Skill": "QB Steve Grogan RB Andy Johnson FB Sam Cunningham WR Darryl Stingley WR Randy Vataha TE Russ Francis*",
+      "Off. Line": "LT Leon Gray* LG John Hannah*+ C Bill Lenkaitis RG Sam Adams RT Bob McKay",
+      "Def. Line": "LDE Tony McGee NT Ray Hamilton RDE Julius Adams",
+      "Linebackers": "LOLB Steve Zabel LILB Steve Nelson RILB Sam Hunt ROLB Steve King",
+      "Secondary": "LCB Bob Howard RCB Mike Haynes* SS Prentice McCray FS Tim Fox",
+      "Sp. Teams": "PR Mike Haynes* KR Jess Phillips"
+    },
+    {
+      "Skill": "QB Steve Grogan RB Andy Johnson FB Sam Cunningham WR Darryl Stingley WR Randy Vataha TE Russ Francis",
+      "Off. Line": "LT Leon Gray LG John Hannah C Bill Lenkaitis RG Sam Adams RT Shelby Jordan",
+      "Def. Line": "LDE Tony McGee NT Ray Hamilton RDE Julius Adams",
+      "Linebackers": "LOLB George Webster LILB Steve Nelson RILB Sam Hunt ROLB Steve Zabel",
+      "Secondary": "LCB Bob Howard RCB Ron Bolton SS Prentice McCray FS John Sanders",
+      "Sp. Teams": "PR Darryl Stingley KR Allen Carter"
+    },
+    {
+      "Skill": "QB Jim Plunkett RB Mack Herron FB Sam Cunningham WR Reggie Rucker WR Randy Vataha TE Bob Windsor",
+      "Off. Line": "LT Leon Gray LG John Hannah C Bill Lenkaitis RG Sam Adams RT Tom Neville",
+      "Def. Line": "LDE Mel Lunsford NT Ray Hamilton RDE Julius Adams",
+      "Linebackers": "LOLB George Webster LILB Steve Nelson RILB Sam Hunt ROLB Steve King",
+      "Secondary": "LCB John Sanders RCB Ron Bolton SS Jack Mildren FS Prentice McCray",
+      "Sp. Teams": "PR Mack Herron KR Mack Herron"
+    },
+    {
+      "Skill": "QB Jim Plunkett RB Josh Ashton FB Sam Cunningham WR Reggie Rucker WR Darryl Stingley TE Bob Windsor",
+      "Off. Line": "LT Sam Adams LG John Hannah C Bill Lenkaitis RG Len St. Jean RT Tom Neville",
+      "Def. Line": "LDE Ray Hamilton LDT Dave Rowe RDT Julius Adams RDE Rick Cash",
+      "Linebackers": "LLB Steve Kiner MLB Edgar Chandler RLB Ron Acks",
+      "Secondary": "LCB George Hoey RCB Ron Bolton SS Sandy Durko FS Ralph Anderson",
+      "Sp. Teams": "PR Mack Herron KR Mack Herron"
+    },
+    {
+      "Skill": "QB Jim Plunkett RB Carl Garrett FB Josh Ashton WR Reggie Rucker WR Randy Vataha TE Bob Windsor",
+      "Off. Line": "LT Bob Reynolds LG Mike Montler C Jon Morris RG Len St. Jean RT Tom Neville",
+      "Def. Line": "LDE Julius Adams LDT Dave Rowe RDT Rick Cash RDE Dennis Wirgowski",
+      "Linebackers": "LLB Ed Weisacosky MLB Jim Cheyunski RLB Ron Acks",
+      "Secondary": "LCB Larry Carwell RCB John Outlaw SS Honor Jackson FS Rickie Harris",
+      "Sp. Teams": "PR Carl Garrett KR Carl Garrett"
+    },
+    {
+      "Skill": "QB Jim Plunkett RB Carl Garrett FB Jim Nance WR Ron Sellers WR Randy Vataha TE Tom Beer",
+      "Off. Line": "LT Mike Montler LG Halvor Hagen C Jon Morris RG Len St. Jean RT Tom Neville",
+      "Def. Line": "LDE Ike Lassiter LDT Dave Rowe RDT Julius Adams RDE Dennis Wirgowski",
+      "Linebackers": "LLB Ed Weisacosky MLB Jim Cheyunski RLB Steve Kiner",
+      "Secondary": "LCB Larry Carwell RCB John Outlaw SS Rickie Harris FS Don Webb",
+      "Sp. Teams": "PR Hubie Bryant KR Carl Garrett"
+    },
+    {
+      "Skill": "QB Joe Kapp RB Carl Garrett FB Jim Nance WR Ron Sellers WR Bake Turner TE Barry Brown",
+      "Off. Line": "LT Tom Funchess LG Mike Montler C Jon Morris* RG Len St. Jean RT Tom Neville",
+      "Def. Line": "LDE Mel Witt LDT Jim Lee Hunt RDT Ron Berger RDE Houston Antwine",
+      "Linebackers": "LLB Ed Philpott MLB Jim Cheyunski RLB John Bramlett",
+      "Secondary": "LCB Larry Carwell RCB Daryl Johnson SS Clarence Scott FS Don Webb",
+      "Sp. Teams": "PR Carl Garrett KR Odell Lawson"
+    },
+    {
+      "Skill": "QB Mike Taliaferro* RB Carl Garrett* RB Jim Nance WR Charley Frazier WR Ron Sellers* TE Jim Whalen",
+      "Off. Line": "LT Tom Funchess LG Mike Montler C Jon Morris* RG Len St. Jean RT Tom Neville",
+      "Def. Line": "LDE Karl Henke LDT Jim Lee Hunt* RDT Houston Antwine RDE Larry Eisenhauer",
+      "Linebackers": "LLB Ed Philpott MLB Jim Cheyunski RLB John Bramlett",
+      "Secondary": "LCB Larry Carwell RCB Daryl Johnson SS John Charles FS Don Webb*",
+      "Sp. Teams": "PR Carl Garrett* KR Carl Garrett*"
+    },
+    {
+      "Skill": "QB Mike Taliaferro RB R.C. Gamble RB Jim Nance FL Aaron Marsh TE Jim Whalen+",
+      "Off. Line": "LE Art Graham LT Tom Funchess LG Justin Canale C Jon Morris* RG Len St. Jean RT Tom Neville",
+      "Def. Line": "LDE Dennis Byrd LDT Jim Lee Hunt RDT Houston Antwine* RDE Larry Eisenhauer",
+      "Linebackers": "LLB Ed Philpott MLB Nick Buoniconti RLB Doug Satcher",
+      "Secondary": "LCB Leroy Mitchell* RCB Daryl Johnson SS John Charles FS Don Webb",
+      "Sp. Teams": "PR Willie Porter KR Willie Porter"
+    },
+    {
+      "Skill": "QB Babe Parilli HB Larry Garron* FB Jim Nance*+ FL Gino Cappelletti TE Jim Whalen",
+      "Off. Line": "LE Art Graham LT Don Oakes* LG Charley Long C Jon Morris* RG Justin Canale RT Tom Neville",
+      "Def. Line": "LDE Bob Dee LDT Jim Lee Hunt* RDT Houston Antwine* RDE Larry Eisenhauer",
+      "Linebackers": "LLB Tom Addison MLB Nick Buoniconti*+ RLB Doug Satcher",
+      "Secondary": "LCB Leroy Mitchell RCB John Charles SS Chuck Shonta FS Don Webb",
+      "Sp. Teams": "PR Jay Cunningham KR Jay Cunningham"
+    },
+    {
+      "Skill": "QB Babe Parilli* HB Larry Garron FB Jim Nance*+ FL Gino Cappelletti* TE Jim Whalen",
+      "Off. Line": "LE Art Graham LT Don Oakes LG Charley Long C Jon Morris*+ RG Len St. Jean* RT Tom Neville*",
+      "Def. Line": "LDE Bob Dee LDT Jim Lee Hunt* RDT Houston Antwine* RDE Larry Eisenhauer*",
+      "Linebackers": "LLB Tom Addison MLB Nick Buoniconti*+ RLB Lonnie Farmer",
+      "Secondary": "LCB Tom Hennessey RCB Don Webb SS Ron Hall FS White Graves",
+      "Sp. Teams": "PR Tom Hennessey KR Joe Bellino"
+    },
+    {
+      "Skill": "QB Babe Parilli HB Ron Burton FB Jim Nance FL Gino Cappelletti* TE Jim Whalen",
+      "Off. Line": "LE Jim Colclough LT Don Oakes LG Charley Long C Jon Morris* RG Billy Neighbors RT Bob Yates",
+      "Def. Line": "LDE Bob Dee* LDT Jim Lee Hunt RDT Houston Antwine* RDE Larry Eisenhauer",
+      "Linebackers": "LLB Tom Addison MLB Nick Buoniconti*+ RLB Jack Rudolph",
+      "Secondary": "LCB Don Webb RCB Chuck Shonta SS Ross O'Hanley FS Ron Hall",
+      "Sp. Teams": "PR Ron Burton KR Jay Cunningham"
+    },
+    {
+      "Skill": "QB Babe Parilli*+ HB Ron Burton FB Larry Garron* FL Gino Cappelletti* TE Tony Romeo",
+      "Off. Line": "LE Art Graham LT Don Oakes LG Charley Long C Jon Morris* RG Billy Neighbors+ RT Bob Yates",
+      "Def. Line": "LDE Bob Dee* LDT Jess Richardson RDT Houston Antwine* RDE Larry Eisenhauer*+",
+      "Linebackers": "LLB Tom Addison* MLB Nick Buoniconti*+ RLB Jack Rudolph",
+      "Secondary": "LCB Don Webb RCB Chuck Shonta SS Ross O'Hanley FS Ron Hall+",
+      "Sp. Teams": "PR Dave Cloutier KR J.D. Garrett"
+    },
+    {
+      "Skill": "QB Babe Parilli* HB Jim Crawford FB Larry Garron* FL Jim Colclough TE Tony Romeo",
+      "Off. Line": "LE Gino Cappelletti* LT Milt Graham LG Billy Neighbors* C Walt Cudzik RG Charley Long* RT Don Oakes",
+      "Def. Line": "LDE Bob Dee* LDT Jess Richardson RDT Houston Antwine*+ RDE Larry Eisenhauer*+",
+      "Linebackers": "LLB Tom Addison* MLB Nick Buoniconti* RLB Jack Rudolph",
+      "Secondary": "LCB Ron Hall* RCB Chuck Shonta SS Ross O'Hanley FS Dick Felt",
+      "Sp. Teams": "PR Bob Suci KR Larry Garron*"
+    },
+    {
+      "Skill": "QB Babe Parilli HB Ron Burton FB Jim Crawford FL Jim Colclough* TE Tony Romeo",
+      "Off. Line": "LE Gino Cappelletti LT Charley Long* LG Tony Sardisco C Walt Cudzik RG Billy Neighbors RT Milt Graham",
+      "Def. Line": "LDE Bob Dee LDT Dick Klein* RDT Jess Richardson RDE Larry Eisenhauer*+",
+      "Linebackers": "LLB Tom Addison* MLB Nick Buoniconti RLB Jack Rudolph",
+      "Secondary": "LCB Dick Felt* RCB Chuck Shonta SS Fred Bruney* FS Ross O'Hanley",
+      "Sp. Teams": "PR Ron Burton KR Larry Garron"
+    },
+    {
+      "Skill": "QB Babe Parilli HB Ron Burton FB Billy Lott FL Jim Colclough",
+      "Off. Line": "LE Gino Cappelletti* LT Charley Long LG Charley Leo* C Walt Cudzik RG Tony Sardisco RT Jerry DeLucca RE Thomas Stephens",
+      "Def. Line": "LDE Bob Dee* LDT Dick Klein RDT Jim Lee Hunt* RDE Larry Eisenhauer",
+      "Linebackers": "LLB Tom Addison*+ MLB Harry Jacobs RLB Rommie Loudd",
+      "Secondary": "LCB Clyde Washington RCB Walter Beach SS Ron Hall FS Fred Bruney*",
+      "Sp. Teams": "PR Fred Bruney* KR Larry Garron*"
+    },
+    {
+      "Skill": "QB Butch Songin FB Alan Miller",
+      "Off. Line": "LE Joe Johnson LT George McGee LG Charley Leo C Walt Cudzik RG Jack Davis RT Jerry DeLucca RE Oscar Lofton",
+      "Def. Line": "LDE Bob Dee LDT Harry Jagielski RDT Art Hauser RDE Tony Sardisco",
+      "Linebackers": "LLB Tom Addison MLB Bill Brown RLB Jack Rudolph",
+      "Secondary": "LCB Clyde Washington RCB Chuck Shonta SS Fred Bruney FS Ross O'Hanley",
+      "Sp. Teams": "PR Billy Wells KR Dick Christy"
+    }
+  ]
