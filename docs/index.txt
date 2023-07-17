@@ -1,6 +1,6 @@
 1:HL["https://bfeldkamp3.github.io/immaculate-gridiron/_next/static/media/2aaf0723e720e8b9-s.p.woff2",{"as":"font","type":"font/woff2"}]
 2:HL["https://bfeldkamp3.github.io/immaculate-gridiron/_next/static/css/966bde59e4ff08b5.css",{"as":"style"}]
-0:["4pSeYpw3QgIH0X1XEUA5h",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"https://bfeldkamp3.github.io/immaculate-gridiron/_next/static/css/966bde59e4ff08b5.css","precedence":"next"}]],["$L4",["$","meta",null,{"name":"next-size-adjust"}]]]]]]
+0:["-_6lsYHoIoJ8M-WOA1ldf",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"https://bfeldkamp3.github.io/immaculate-gridiron/_next/static/css/966bde59e4ff08b5.css","precedence":"next"}]],["$L4",["$","meta",null,{"name":"next-size-adjust"}]]]]]]
 5:I{"id":9180,"chunks":["272:static/chunks/webpack-c638d5f25ca2b449.js","253:static/chunks/bce60fc1-0593c640cdea54db.js","698:static/chunks/698-da6948ad3fa3390d.js"],"name":"default","async":false}
 6:I{"id":2306,"chunks":["272:static/chunks/webpack-c638d5f25ca2b449.js","253:static/chunks/bce60fc1-0593c640cdea54db.js","698:static/chunks/698-da6948ad3fa3390d.js"],"name":"default","async":false}
 7:I{"id":6430,"chunks":["856:static/chunks/7a080c1d-b4b840e59c245333.js","518:static/chunks/518-d7588ce5e7603521.js","931:static/chunks/app/page-21f38bb0b54b17ee.js"],"name":"","async":false}
