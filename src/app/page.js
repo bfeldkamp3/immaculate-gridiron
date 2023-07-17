@@ -25,12 +25,12 @@ export default function Home() {
           <div className="w-20 sm:w-36 md:w-48"></div>
           <div className="flex items-center justify-center w-24 sm:w-36 md:w-48 h-16 sm:h-24 md:h-36">
             <img
-              src={"/"+data[0]+".svg"}
+              src={"/immaculate-gridiron/"+data[0]+".svg"}
               className="w-16 sm:w-20 md:w-24 h-12 sm:h-20 md:h-24" />
           </div>
           <div className="flex items-center justify-center w-24 sm:w-36 md:w-48 h-16 sm:h-24 md:h-36">
             <img
-              src={"/"+data[1]+".svg"}
+              src={"/immaculate-gridiron/"+data[1]+".svg"}
               className="w-16 sm:w-20 md:w-24 h-12 sm:h-20 md:h-24" />
           </div>
           <div className="flex items-center justify-center w-24 sm:w-36 md:w-48 h-16 sm:h-24 md:h-36">
@@ -47,17 +47,17 @@ export default function Home() {
           <div>
             <div className="flex items-center justify-center w-20 sm:w-36 md:w-48 h-24 sm:h-36 md:h-48">
               <img
-                src={"/"+data[3]+".svg"}
+                src={"/immaculate-gridiron/"+data[3]+".svg"}
                 className="w-16 sm:w-20 md:w-24 h-12 sm:h-20 md:h-24" />
             </div>
             <div className="flex items-center justify-center w-20 sm:w-36 md:w-48 h-24 sm:h-36 md:h-48">
               <img
-                src={"/"+data[4]+".svg"}
+                src={"/immaculate-gridiron/"+data[4]+".svg"}
                 className="w-16 sm:w-20 md:w-24 h-12 sm:h-20 md:h-24" />
             </div>
             <div className="flex items-center justify-center w-20 sm:w-36 md:w-48 h-24 sm:h-36 md:h-48">
               <img
-                src={"/"+data[5]+".svg"}
+                src={"/immaculate-gridiron/"+data[5]+".svg"}
                 className="w-16 sm:w-20 md:w-24 h-12 sm:h-20 md:h-24" />
             </div>
           </div>
