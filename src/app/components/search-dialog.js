@@ -14,6 +14,7 @@ initTE({ Modal });
 export default function SearchDialog(props) {
     const [currentPlayer, setCurrentPlayer] = React.useState('');
     const [playerList] = React.useState(Object.keys(props.players));
+    const [value, setValue] = React.useState('');
 
     const handleSubmit = async (event) => {
         event.preventDefault();
@@ -34,10 +35,11 @@ export default function SearchDialog(props) {
             setTimeout(()=>{
                 document.getElementById('searchContainer').style.backgroundColor = 'white';
             }, 600);
+            setValue('')
             return false;
         }
 
-        console.log(document.getElementById(`${grid.id}`))
+        setValue('')
         document.getElementById(`${grid.id}`).innerHTML=currentPlayer;
         document.getElementById('closeButton').click()
         return true;
@@ -86,6 +88,7 @@ export default function SearchDialog(props) {
                             id="playerSearch"
                             options={playerList}
                             clearOnEscape
+                            value={value}
                             renderOption={(props, option) => {
                                 return (
                                 <li {...props} key={option}>
