@@ -16,7 +16,11 @@ fs.readdir(directoryPath, function (err, files) {
         let uniquePlayers = new Set([])
         lineups.forEach(lineup => {
             uniquePlayers = new Set([...uniquePlayers, ...parseSkill(lineup.Skill)]);
-            //parseOffLine(lineup['Off. Line']);
+            uniquePlayers = new Set([...uniquePlayers, ...parseOffLine(lineup['Off. Line'])]);
+            uniquePlayers = new Set([...uniquePlayers, ...parseDefLine(lineup['Def. Line'])]);
+            uniquePlayers = new Set([...uniquePlayers, ...parseLineBackers(lineup.Linebackers)]);
+            uniquePlayers = new Set([...uniquePlayers, ...parseSecondary(lineup.Secondary)]);
+            uniquePlayers = new Set([...uniquePlayers, ...parseSpTeams(lineup['Sp. Teams'])]);
         });
         
         const team = file.replace('.json', '');
@@ -39,7 +43,7 @@ fs.readdir(directoryPath, function (err, files) {
 });
 
 function parseSkill(blob){
-    const matcher = new RegExp('(QB )|( RB)|( FB)|( WR)|( LH)|( RH)|( TE)|(FL )|( HB)', 'g');
+    const matcher = new RegExp('(QB )|( RB)|( BB)|( WB)|( FB)|( WR)|( LH)|( RH)|( TE)|(FL )|(HB )|(TB )', 'g');
 
     blob = blob.replaceAll('*', '')
         .replaceAll('+', '')
@@ -53,35 +57,89 @@ function parseSkill(blob){
     });
 
     return players;
-    // console.log(players)
 }
 
 function parseOffLine(blob){
-    const matcher = new RegExp('( C)|(LT )|( RG)|( RT)|(LE )|( LG)|( RE)', 'g');
+    const matcher = new RegExp('(C)|(LT)|(RG)|(RT)|(LE)|(LG)|(RE)', 'g');
 
     blob = blob.replaceAll('*', '')
         .replaceAll('+', '')
         .replaceAll(matcher, ', ')
 
-    players = blob.split(',').map(player => {
+    players = blob.split(',').filter(player => {
+        if(player === '') return false;
+        return true;
+    }).map(player => {
         return player.trim();
     });
 
-    //console.log(players)
+    return players;
 }
 
-function parseDefLine(){
+function parseDefLine(blob){
+    const matcher = new RegExp('(LDE)|(NT)|(RDE)|(RDT)|(LDT)|(MG)|(DT)', 'g');
 
+    blob = blob.replaceAll('*', '')
+        .replaceAll('+', '')
+        .replaceAll(matcher, ', ')
+
+    players = blob.split(',').filter(player => {
+        if(player === '') return false;
+        return true;
+    }).map(player => {
+        return player.trim();
+    });
+
+    return players;
 }
 
-function parseLineBackers(){
+function parseLineBackers(blob){
+    const matcher = new RegExp('(LLB)|(RLB)|(MLB)|(LOLB)|(LILB)|(ROLB)|(RILB)', 'g');
 
+    blob = blob.replaceAll('*', '')
+        .replaceAll('+', '')
+        .replaceAll(matcher, ', ')
+
+    players = blob.split(',').filter(player => {
+        if(player === '') return false;
+        return true;
+    }).map(player => {
+        return player.trim();
+    });
+
+    return players;
 }
 
-function parseSecondary(){
+function parseSecondary(blob){
+    const matcher = new RegExp('(LDH)|(RDH)|( S )|(SS )|( FS )|(LCB)|(RCB)|( DB )', 'g');
 
+    blob = blob.replaceAll('*', '')
+        .replaceAll('+', '')
+        .replaceAll(matcher, ', ')
+
+    players = blob.split(',').filter(player => {
+        if(player === '') return false;
+        return true;
+    }).map(player => {
+        return player.trim();
+    });
+
+    return players;
 }
 
-function parseSpTeams(){
+function parseSpTeams(blob){
+    const matcher = new RegExp('(PR)|(KR)|(RDE)|(RDT)|(LDT)|(MG)|(DT)', 'g');
 
+    blob = blob.replaceAll('*', '')
+        .replaceAll('+', '')
+        .replaceAll(matcher, ', ')
+
+    players = blob.split(',').filter(player => {
+        if(player === '') return false;
+        return true;
+    }).map(player => {
+        return player.trim();
+    });
+
+    return players;
 }
