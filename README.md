@@ -1,4 +1,4 @@
-## Shout out to https://www.pro-football-reference.com/ for data.
+## Shout out to https://www.pro-football-reference.com/ for data. And hopefully they make a good version soon lol.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

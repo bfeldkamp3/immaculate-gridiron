@@ -6,7 +6,7 @@ const DynamicSearchDialog = dynamic(() => import('./components/search-dialog'), 
 
 function getData() {
   const today = (new Date()).toLocaleDateString();
-  return JSON.parse(fs.readFileSync('src/app/data/puzzles.json', 'utf8'))["7/16/2023"];
+  return JSON.parse(fs.readFileSync('src/app/data/puzzles.json', 'utf8'))[today];
 }
 
 function fetchPlayers() {
