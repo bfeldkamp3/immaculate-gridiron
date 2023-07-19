@@ -6,7 +6,7 @@ const DynamicSearchDialog = dynamic(() => import('./components/search-dialog'), 
 
 function getData() {
   const today = (new Date()).toLocaleDateString();
-  return JSON.parse(fs.readFileSync('src/app/data/puzzles.json', 'utf8'))[today];
+  return JSON.parse(fs.readFileSync('src/app/data/puzzles.json', 'utf8'))["7/16/2023"];
 }
 
 function fetchPlayers() {
@@ -17,6 +17,7 @@ function fetchPlayers() {
 export default function Home() {
   const data = getData();
   const players = fetchPlayers();
+  const prefix = process.env.NODE_ENV === 'production' ? '/immaculate-gridiron/' : '/'
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
@@ -25,12 +26,12 @@ export default function Home() {
           <div className="w-20 sm:w-36 md:w-48"></div>
           <div className="flex items-center justify-center w-24 sm:w-36 md:w-48 h-16 sm:h-24 md:h-36">
             <img
-              src={"/immaculate-gridiron/"+data[0]+".svg"}
+              src={prefix+data[0]+".svg"}
               className="w-16 sm:w-20 md:w-24 h-12 sm:h-20 md:h-24" />
           </div>
           <div className="flex items-center justify-center w-24 sm:w-36 md:w-48 h-16 sm:h-24 md:h-36">
             <img
-              src={"/immaculate-gridiron/"+data[1]+".svg"}
+              src={prefix+data[1]+".svg"}
               className="w-16 sm:w-20 md:w-24 h-12 sm:h-20 md:h-24" />
           </div>
           <div className="flex items-center justify-center w-24 sm:w-36 md:w-48 h-16 sm:h-24 md:h-36">
@@ -47,17 +48,17 @@ export default function Home() {
           <div>
             <div className="flex items-center justify-center w-20 sm:w-36 md:w-48 h-24 sm:h-36 md:h-48">
               <img
-                src={"/immaculate-gridiron/"+data[3]+".svg"}
+                src={prefix+data[3]+".svg"}
                 className="w-16 sm:w-20 md:w-24 h-12 sm:h-20 md:h-24" />
             </div>
             <div className="flex items-center justify-center w-20 sm:w-36 md:w-48 h-24 sm:h-36 md:h-48">
               <img
-                src={"/immaculate-gridiron/"+data[4]+".svg"}
+                src={prefix+data[4]+".svg"}
                 className="w-16 sm:w-20 md:w-24 h-12 sm:h-20 md:h-24" />
             </div>
             <div className="flex items-center justify-center w-20 sm:w-36 md:w-48 h-24 sm:h-36 md:h-48">
               <img
-                src={"/immaculate-gridiron/"+data[5]+".svg"}
+                src={prefix+data[5]+".svg"}
                 className="w-16 sm:w-20 md:w-24 h-12 sm:h-20 md:h-24" />
             </div>
           </div>

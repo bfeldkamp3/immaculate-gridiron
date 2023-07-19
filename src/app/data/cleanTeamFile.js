@@ -16,11 +16,11 @@ fs.readdir(directoryPath, function (err, files) {
         let uniquePlayers = new Set([])
         lineups.forEach(lineup => {
             uniquePlayers = new Set([...uniquePlayers, ...parseSkill(lineup.Skill)]);
-            uniquePlayers = new Set([...uniquePlayers, ...parseOffLine(lineup['Off. Line'])]);
-            uniquePlayers = new Set([...uniquePlayers, ...parseDefLine(lineup['Def. Line'])]);
-            uniquePlayers = new Set([...uniquePlayers, ...parseLineBackers(lineup.Linebackers)]);
+            // uniquePlayers = new Set([...uniquePlayers, ...parseOffLine(lineup['Off. Line'])]);
+            // uniquePlayers = new Set([...uniquePlayers, ...parseDefLine(lineup['Def. Line'])]);
+            // uniquePlayers = new Set([...uniquePlayers, ...parseLineBackers(lineup.Linebackers)]);
             uniquePlayers = new Set([...uniquePlayers, ...parseSecondary(lineup.Secondary)]);
-            uniquePlayers = new Set([...uniquePlayers, ...parseSpTeams(lineup['Sp. Teams'])]);
+            // uniquePlayers = new Set([...uniquePlayers, ...parseSpTeams(lineup['Sp. Teams'])]);
         });
         
         const team = file.replace('.json', '');
